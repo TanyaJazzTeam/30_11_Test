@@ -132,6 +132,7 @@ Generating pre-built zip archives for distribution:
 $ gulp build dist --prod
 ```
 ### Docker
+### HTML (8)
 Dillinger is very easy to install and deploy in a Docker container.
 
 By default, the Docker will expose port 8080, so change this within the Dockerfile if necessary. When ready, simply use the Dockerfile to build the image.
@@ -153,10 +154,12 @@ Verify the deployment by navigating to your server address in your preferred bro
 ```sh
 127.0.0.1:8000
 ```
-
+## HTML (9)
 #### Kubernetes + Google Cloud
 
 See [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
-
+## HTML (10)
 
 ### Todos
+
+# HTML (11)
