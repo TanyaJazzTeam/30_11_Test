@@ -158,8 +158,5 @@ Verify the deployment by navigating to your server address in your preferred bro
 #### Kubernetes + Google Cloud
 
 See [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
-## HTML (10)
 
 ### Todos
-
-# HTML (11)
